@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aiminds/static/css/main.9c6f7cf0.css",
+    "main.js": "/aiminds/static/js/main.6c5fa0d8.js",
+    "static/media/main-background.jpg": "/aiminds/static/media/main-background.b4a9d8d08a0bbe3b262b.jpg",
+    "static/media/mid-pic-1.jpeg": "/aiminds/static/media/mid-pic-1.466efb5762068f219426.jpeg",
+    "static/media/mid-pic-2.jpeg": "/aiminds/static/media/mid-pic-2.9048794eee0491355b5e.jpeg",
+    "static/media/mid-pic-3.jpeg": "/aiminds/static/media/mid-pic-3.1bd76c8a6af3c7e7df6e.jpeg",
+    "static/media/logo-white.png": "/aiminds/static/media/logo-white.e415f0aaa927d6e047af.png",
+    "index.html": "/aiminds/index.html",
+    "main.9c6f7cf0.css.map": "/aiminds/static/css/main.9c6f7cf0.css.map",
+    "main.6c5fa0d8.js.map": "/aiminds/static/js/main.6c5fa0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c6f7cf0.css",
+    "static/js/main.6c5fa0d8.js"
+  ]
+}
