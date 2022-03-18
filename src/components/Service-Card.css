@@ -1,0 +1,34 @@
+.service-card {
+
+  width: 20%;
+  height: 350px;
+  color: white;
+  background-color: #212754;
+  border-radius: 25px;
+  margin-left: 6%;
+  
+
+}
+
+.service-card-inside {
+
+  height: 100%;
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.service-card-inside h1 {
+
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-top: 10%;
+
+}
+
+.service-card h4 {
+
+  font-family: monospace;
+  font-weight: 200;
+  font-size: 15px;
+  padding-top: 10%;
+}
