@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aiminds/static/css/main.eb30114d.css",
+    "main.css": "/aiminds/static/css/main.3e10ae18.css",
     "main.js": "/aiminds/static/js/main.e2851a7d.js",
     "ucare-widget-chunk.js": "/aiminds/static/js/ucare-widget-chunk.7009b442.chunk.js",
     "ucare-panel-chunk.js": "/aiminds/static/js/ucare-panel-chunk.4c4863f5.chunk.js",
@@ -11,14 +11,14 @@
     "static/media/mid-pic-3.jpeg": "/aiminds/static/media/mid-pic-3.1bd76c8a6af3c7e7df6e.jpeg",
     "static/media/logo-white.png": "/aiminds/static/media/logo-white.e415f0aaa927d6e047af.png",
     "index.html": "/aiminds/index.html",
-    "main.eb30114d.css.map": "/aiminds/static/css/main.eb30114d.css.map",
+    "main.3e10ae18.css.map": "/aiminds/static/css/main.3e10ae18.css.map",
     "main.e2851a7d.js.map": "/aiminds/static/js/main.e2851a7d.js.map",
     "ucare-widget-chunk.7009b442.chunk.js.map": "/aiminds/static/js/ucare-widget-chunk.7009b442.chunk.js.map",
     "ucare-panel-chunk.4c4863f5.chunk.js.map": "/aiminds/static/js/ucare-panel-chunk.4c4863f5.chunk.js.map",
     "46.a788b747.chunk.js.map": "/aiminds/static/js/46.a788b747.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb30114d.css",
+    "static/css/main.3e10ae18.css",
     "static/js/main.e2851a7d.js"
   ]
 }
