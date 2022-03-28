@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/aiminds/static/css/main.9c6f7cf0.css",
-    "main.js": "/aiminds/static/js/main.6c5fa0d8.js",
+    "main.css": "/aiminds/static/css/main.eb30114d.css",
+    "main.js": "/aiminds/static/js/main.e2851a7d.js",
+    "ucare-widget-chunk.js": "/aiminds/static/js/ucare-widget-chunk.7009b442.chunk.js",
+    "ucare-panel-chunk.js": "/aiminds/static/js/ucare-panel-chunk.4c4863f5.chunk.js",
+    "static/js/46.a788b747.chunk.js": "/aiminds/static/js/46.a788b747.chunk.js",
     "static/media/main-background.jpg": "/aiminds/static/media/main-background.b4a9d8d08a0bbe3b262b.jpg",
     "static/media/mid-pic-1.jpeg": "/aiminds/static/media/mid-pic-1.466efb5762068f219426.jpeg",
     "static/media/mid-pic-2.jpeg": "/aiminds/static/media/mid-pic-2.9048794eee0491355b5e.jpeg",
     "static/media/mid-pic-3.jpeg": "/aiminds/static/media/mid-pic-3.1bd76c8a6af3c7e7df6e.jpeg",
     "static/media/logo-white.png": "/aiminds/static/media/logo-white.e415f0aaa927d6e047af.png",
     "index.html": "/aiminds/index.html",
-    "main.9c6f7cf0.css.map": "/aiminds/static/css/main.9c6f7cf0.css.map",
-    "main.6c5fa0d8.js.map": "/aiminds/static/js/main.6c5fa0d8.js.map"
+    "main.eb30114d.css.map": "/aiminds/static/css/main.eb30114d.css.map",
+    "main.e2851a7d.js.map": "/aiminds/static/js/main.e2851a7d.js.map",
+    "ucare-widget-chunk.7009b442.chunk.js.map": "/aiminds/static/js/ucare-widget-chunk.7009b442.chunk.js.map",
+    "ucare-panel-chunk.4c4863f5.chunk.js.map": "/aiminds/static/js/ucare-panel-chunk.4c4863f5.chunk.js.map",
+    "46.a788b747.chunk.js.map": "/aiminds/static/js/46.a788b747.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c6f7cf0.css",
-    "static/js/main.6c5fa0d8.js"
+    "static/css/main.eb30114d.css",
+    "static/js/main.e2851a7d.js"
   ]
 }
